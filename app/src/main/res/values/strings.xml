@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Cars App</string>
+    <string name="details">details</string>
+    <string name="color">color</string>
+    <string name="DPL">Distance Per Liter</string>
+    <string name="description">Description</string>
+    <string name="model">model</string>
+    <string name="dpi">DPI</string>
+</resources>
